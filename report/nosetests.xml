@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite name="nosetests" tests="5" errors="0" failures="0" skip="0"><testcase classname="test_suit.transplant_class.&lt;locals&gt;.C" name="test_create_post" time="22.947"><system-out><![CDATA[start test
+第一篇文章的第一个标题 20190702 120725
+]]></system-out></testcase><testcase classname="test_suit.transplant_class.&lt;locals&gt;.C" name="test_delete" time="51.930"><system-out><![CDATA[start test
+End test
+]]></system-out></testcase><testcase classname="test_suit.transplant_class.&lt;locals&gt;.C" name="test_edit" time="31.433"><system-out><![CDATA[start test
+第一篇文章的第一个标题 20190702 120841编辑第一篇文章的第一个标题 20190702 120847
+End test
+]]></system-out></testcase><testcase classname="test_suit.transplant_class.&lt;locals&gt;.C" name="test_login" time="17.210"><system-out><![CDATA[start test
+end test
+]]></system-out></testcase><testcase classname="test_suit.transplant_class.&lt;locals&gt;.C" name="test_view" time="43.445"><system-out><![CDATA[start test
+第一篇文章的第一个标题 20190702 120936
+这是第一篇文章的内容 20190702 120936
+End test
+]]></system-out></testcase></testsuite>
